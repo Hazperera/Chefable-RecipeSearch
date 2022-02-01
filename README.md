@@ -12,5 +12,5 @@ Our project used the [(Edamam Recipe API)](https://developer.edamam.com/edamam-r
 
 
 <p align="center">
-  <img width="300" height="300" src="<a href="https://www.vectorstock.com/royalty-free-vector/vegetable-seamless-vector-4327536"/a>
+  <img width="300" height="300" src="https://www.vectorstock.com/royalty-free-vector/vegetable-seamless-vector-4327536"
 </p>
